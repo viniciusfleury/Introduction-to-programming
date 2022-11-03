@@ -1,3 +1,7 @@
+/*1) Faça um programa que leia o salário de um trabalhador e 
+* imprima a contribuição ao INSS. Assuma uma alíquota de 11%.
+*/
+
 #include <stdio.h>
 
 int main()
